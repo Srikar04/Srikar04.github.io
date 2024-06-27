@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://srikar.github.io/
+> https://srikar-portfolio.github.io/
 
 
 ## Features 📋
